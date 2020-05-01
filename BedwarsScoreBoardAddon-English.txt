@@ -1,1 +1,1 @@
-2.10.2,https://www.spigotmc.org/resources/bedwarsscoreboardaddon.74991/,Fixed Bug!
+2.10.3,https://www.spigotmc.org/resources/bedwarsscoreboardaddon.74991/,[Added] Waiting lobby tag color;[Fixed] Bew holographic can't off;[Fixed] All players disconnect when the scoreboard changes;[Fixed] The holographic destroy after respawn;[Fixed] The player is still respawn after game over;[Fixed] Resource generators to ejection players;[Fixed] Tab name is white when the player is invisible;[Fixed] 'Hide player' makes the server freeze;[Fixed] Spectator block player
