@@ -1,1 +1,1 @@
-2.13.1,https://github.com/TheRamU/BedwarsScoreBoardAddon,[CHANGED] Change Citizens to softdepend.;[FIXED] Kills ranks is reverse.
+2.13.1,https://github.com/TheRamU/BedwarsScoreBoardAddon,[CHANGED] Change Citizens to soft depend.;[FIXED] Kills ranks is reverse.
